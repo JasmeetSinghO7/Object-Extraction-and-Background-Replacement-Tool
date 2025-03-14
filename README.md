@@ -6,4 +6,4 @@ Watch the demo video below to see the project in action:
 
 ### Detect Hand and get mask image
 
-![HandMask](https://github.com/user-attachments/assets/4da5246f-d2da-4d57-8b4f-7f635d2a00a4)
+<img src="https://github.com/user-attachments/assets/4da5246f-d2da-4d57-8b4f-7f635d2a00a4" alt="HandMask" width="800" />
